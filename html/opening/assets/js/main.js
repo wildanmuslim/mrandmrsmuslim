@@ -40,8 +40,10 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/DSC_7262.jpg': 'center',
-							'images/DSC_3292.jpg': 'center',
-							'images/DSC_7236.jpg': 'center'
+							'images/DSC_7179.jpg': 'center',
+							'images/DSC_7177.jpg': 'center',
+							'images/DSC_7207.jpg': 'top',
+							'images/16R_1.jpg': 'center'
 						},
 
 					// Delay.

@@ -6,25 +6,32 @@
 -->
 <html>
 	<head>
-		<title>Big Picture by HTML5 UP</title>
+		<title><?php echo HEADER_TITLE ?></title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="<?php echo base_url('html/home/assets/css/main.css')?>" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<meta property="title" content="Mr & Mrs Muslim Weddings" />
+		<meta property="og:title" content="Mr & Mrs Muslim Weddings" />
+		<meta property="og:image" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
+		<meta property="og:url" content="<?php echo base_url()?>" />
+		<meta property="og:description" content="We are Getting Married" />
+		<meta property="twitter:title" content="Mr & Mrs Muslim Weddings" />
+		<meta property="twitter:image:src" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
 	</head>
 	<body>
 
 		<!-- Header -->
 			<header id="header">
-				<h1>Big Picture</h1>
+				<h1>Mr & Mrs Muslim Weddings</h1>
 				<nav>
 					<ul>
 						<li><a href="#intro">Intro</a></li>
-						<li><a href="#one">What I Do</a></li>
-						<li><a href="#two">Who I Am</a></li>
-						<li><a href="#work">My Work</a></li>
+						<li><a href="#one">Bride</a></li>
+						<li><a href="#two">Groom</a></li>
+						<li><a href="#work">Gallery</a></li>
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</nav>
@@ -49,7 +56,7 @@
 			<section id="one" class="main style2 right dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>What I Do</h2>
+						<h2>Siska</h2>
 					</header>
 					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
 					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
@@ -62,7 +69,7 @@
 			<section id="two" class="main style2 left dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>Who I Am</h2>
+						<h2>Wildan</h2>
 					</header>
 					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
 					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
@@ -75,7 +82,7 @@
 			<section id="work" class="main style3 primary">
 				<div class="content">
 					<header>
-						<h2>My Work</h2>
+						<h2>Gallery</h2>
 						<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
 						Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis
 						arcu, id varius justo euismod in. Curabitur egestas consectetur magna vitae.</p>
@@ -84,22 +91,22 @@
 					<!-- Gallery  -->
 						<div class="gallery">
 							<article class="from-left">
-								<a href="images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a>
+								<a href="images/home/fulls/01.jpg" class="image fit"><img src="images/home/thumbs/01.jpg"  alt="" /></a>
 							</article>
 							<article class="from-right">
-								<a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a>
+								<a href="images/home/fulls/02.jpg" class="image fit"><img src="images/home/thumbs/02.jpg" title="Airchitecture II" alt="" /></a>
 							</article>
 							<article class="from-left">
-								<a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="Air Lounge" alt="" /></a>
+								<a href="images/home/fulls/03.jpg" class="image fit"><img src="images/home/thumbs/03.jpg" title="Air Lounge" alt="" /></a>
 							</article>
 							<article class="from-right">
-								<a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="Carry on" alt="" /></a>
+								<a href="images/home/fulls/04.jpg" class="image fit"><img src="images/home/thumbs/04.jpg" title="Carry on" alt="" /></a>
 							</article>
 							<article class="from-left">
-								<a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="The sparkling shell" alt="" /></a>
+								<a href="images/home/fulls/05.jpg" class="image fit"><img src="images/home/thumbs/05.jpg" title="The sparkling shell" alt="" /></a>
 							</article>
 							<article class="from-right">
-								<a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="Bent IX" alt="" /></a>
+								<a href="images/home/fulls/06.jpg" class="image fit"><img src="images/home/thumbs/06.jpg" title="Bent IX" alt="" /></a>
 							</article>
 						</div>
 
