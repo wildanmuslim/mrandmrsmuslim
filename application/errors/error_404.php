@@ -1,62 +1,117 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-<title>404 Page Not Found</title>
-<style type="text/css">
 
-::selection{ background-color: #E13300; color: white; }
-::moz-selection{ background-color: #E13300; color: white; }
-::webkit-selection{ background-color: #E13300; color: white; }
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Mr & Mrs Muslim</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
 
-body {
-	background-color: #fff;
-	margin: 40px;
-	font: 13px/20px normal Helvetica, Arial, sans-serif;
-	color: #4F5155;
-}
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-a {
-	color: #003399;
-	background-color: transparent;
-	font-weight: normal;
-}
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="/html/error/css/base.css">  
+   <link rel="stylesheet" href="/html/error/css/main.css">
+   <link rel="stylesheet" href="/html/error/css/vendor.css">     
 
-h1 {
-	color: #444;
-	background-color: transparent;
-	border-bottom: 1px solid #D0D0D0;
-	font-size: 19px;
-	font-weight: normal;
-	margin: 0 0 14px 0;
-	padding: 14px 15px 10px 15px;
-}
+   <!-- script
+   ================================================== -->
+	<script src="/html/error/js/modernizr.js"></script>
 
-code {
-	font-family: Consolas, Monaco, Courier New, Courier, monospace;
-	font-size: 12px;
-	background-color: #f9f9f9;
-	border: 1px solid #D0D0D0;
-	color: #002166;
-	display: block;
-	margin: 14px 0 14px 0;
-	padding: 12px 10px 12px 10px;
-}
+   <!-- favicons
+	================================================== -->
+	<link rel="icon" type="image/png" href="/favicon.png">
 
-#container {
-	margin: 10px;
-	border: 1px solid #D0D0D0;
-	-webkit-box-shadow: 0 0 8px #D0D0D0;
-}
-
-p {
-	margin: 12px 15px 12px 15px;
-}
-</style>
 </head>
+
 <body>
-	<div id="container">
-		<h1><?php echo $heading; ?></h1>
-		<?php echo $message; ?>
-	</div>
+
+	<!-- header 
+   ================================================== -->
+   <header class="main-header">
+   	<div class="row">
+   		 		
+   	</div>   
+
+   	<a class="menu-toggle" href="#"><span>Menu</span></a>	
+   </header> <!-- /header -->
+
+   <!-- navigation 
+   ================================================== -->
+   <nav id="menu-nav-wrap">
+
+   	<h5>Site Pages</h5>   	
+		<ul class="nav-list">
+			<li><a href="/#body" title="">Home</a></li>
+			<li><a href="/#couple" title="">Couple</a></li>
+			<li><a href="/#the-day" title="">The Day</a></li>
+			<li><a href="/#" title="">Our Stories</a></li>
+			<li><a href="/#" title="">Gallery</a></li>					
+			<li><a href="/#testimonial" title="">Friends</a></li>					
+		</ul>
+	</nav>
+
+	<!-- main content
+   ================================================== -->
+   <main id="main-404-content" class="main-content-slides">
+
+   	<div class="content-wrap">
+
+		   <div class="shadow-overlay"></div>
+
+		   <div class="main-content">
+		   	<div class="row">
+		   		<div class="col-twelve">
+			  		
+		  			<h1 class="kern-this">404 Error.</h1>
+		  			<p>
+					Oooooops! Looks like nothing was found at this location.
+					Maybe try on of the links below, click on the top menu.
+		  			</p>	   			
+
+			   	</div> <!-- /twelve --> 		   			
+		   	</div> <!-- /row -->    		 		
+		   </div> <!-- /main-content --> 
+
+		   <footer>
+		   	<div class="row">
+
+		   			
+		  			<div class="col-five tab-full bottom-links">
+			   		<ul class="links">
+				   		<li><a href="/">Homepage</a></li>
+				        <li><a href="mailto:admin@mrandmrsmuslim.com">Report Error</a></li>			                    
+				   	</ul>
+
+				   	<div class="credits">
+				   		<p><a href="/" title="styleshout">mrandmrsmuslim.com</a></p>
+				   	</div>
+			   	</div>   		   		
+
+		   	</div> <!-- /row -->    		  		
+		   </footer>
+
+		</div> <!-- /content-wrap -->
+   
+   </main> <!-- /main-404-content -->
+
+   <div id="preloader"> 
+    	<div id="loader"></div>
+   </div> 
+
+   <!-- Java Script
+   ================================================== --> 
+   <script src="/html/error/js/jquery-2.1.3.min.js"></script>
+   <script src="/html/error/js/plugins.js"></script>
+   <script src="/html/error/js/main.js"></script>
+
 </body>
+
 </html>
