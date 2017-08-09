@@ -491,4 +491,27 @@ function parallaxInit() {
 $(window).bind("load", function () {
     parallaxInit()
 });
-                            
+
+
+/* ========================================================================= */
+/*	Gallery Sections
+/* ========================================================================= */
+
+$(window).on('load', function() {
+
+	var $gallery = $('.gallery-grid');
+
+	$gallery.poptrox({
+		baseZIndex: 10001,
+		useBodyOverflow: false,
+		usePopupEasyClose: false,
+		overlayColor: '#1f2328',
+		overlayOpacity: 0.65,
+		usePopupDefaultStyling: false,
+		usePopupCaption: false,
+		popupLoaderText: '',
+		windowMargin: 50,
+		usePopupNav: true
+	});
+
+});

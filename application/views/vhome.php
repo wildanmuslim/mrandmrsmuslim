@@ -5,13 +5,13 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="description" content="<?php echo HEADER_TITLE ?>">
+        <meta name="description" content="<?php echo HEADER_DESCRIPTION ?>">
         <meta property="title" content="<?php echo HEADER_TITLE ?>" />
 		<meta property="og:title" content="<?php echo HEADER_TITLE ?>" />
 		<meta property="og:image" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
 		<meta property="og:url" content="<?php echo base_url()?>" />
-		<meta property="og:description" content="We are Getting Married" />
-		<meta property="twitter:title" content="Mr & Mrs Muslim Weddings" />
+		<meta property="og:description" content="<?php echo HEADER_DESCRIPTION ?>" />
+		<meta property="twitter:title" content="<?php echo HEADER_TITLE ?>" />
 		<meta property="twitter:image:src" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
 		
         <title><?php echo HEADER_TITLE ?></title>
@@ -160,6 +160,8 @@
                         <li><a href="#couple">Couple</a></li>
                         <li><a href="#the-day">The Day</a></li>
                         <li><a href="#testimonial">Friends</a></li>
+                        <li><a href="#gallery">Gallery</a></li>
+
                     </ul>
                 </nav>
 				<!-- /main nav -->
@@ -272,7 +274,6 @@
 				<div id="map-canvas"></div>
 			</div>	
 			<!-- /Google Map -->
-			
 		</section> <!-- end section -->
 		
 		<section id="parallax-2" class="parallax-section">
@@ -398,12 +399,45 @@
 						</a>
 					</li>
 					<!-- /single portfolio item -->
-					
-					
-					
 				</ul> <!-- end og grid -->
-			</div>  <!-- portfolio items wrapper -->
-			
+			</div>  <!-- portfolio items wrapper -->	
+		</section>   <!-- End section -->
+
+		<section id="parallax-3" class="parallax-section">
+			<div class="container">
+				<div class="row">
+				</div>
+			</div>   	<!-- end container -->
+		</section>   <!-- end section -->
+		<!-- testimonial -->
+		<section id="gallery">
+			<div class="container">
+				<div class="row wow fadeInDown" data-wow-duration="500ms">
+					<div class="col-lg-12">
+					
+						<!-- section title -->
+						<div class="title text-center">
+							<h2>Photo <span class="color">Gallery</span></h2>
+							<div class="border"></div>
+						</div>
+						<!-- /section title -->
+						
+					</div> <!-- /end col-lg-12 -->
+				</div> <!-- end row -->
+			</div>	<!-- end container -->
+	
+			<div class="containerwow fadeInUp" data-wow-duration="500ms">
+				<ul class="gallery-grid">
+					<li><a href="images/home/gallery/fulls/1.jpg"><img class="img" src="images/home/gallery/thumbs/1.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/2.jpg"><img class="img" src="images/home/gallery/thumbs/2.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/3.jpg"><img class="img" src="images/home/gallery/thumbs/3.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/4.jpg"><img class="img" src="images/home/gallery/thumbs/4.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/5.jpg"><img class="img" src="images/home/gallery/thumbs/5.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+				</ul>
+			</div>
 		</section>   <!-- End section -->
 
 		<footer id="footer" class="bg-one">
@@ -453,6 +487,7 @@
 		<script src="<?php echo base_url('html/home/js/jquery.countTo.js')?>"></script>
 		<script src="<?php echo base_url('html/home/js/wow.min.js')?>"></script>
 		<script src="<?php echo base_url('html/home/js/jquery.fitvids.js')?>"></script>
+		<script src="<?php echo base_url('html/home/js/jquery.poptrox.min.js')?>"></script>
 		<script src="<?php echo base_url('html/home/js/grid.js')?>"></script>
 		<script src="<?php echo base_url('html/home/js/custom.js')?>"></script>
 
