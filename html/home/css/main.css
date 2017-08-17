@@ -468,7 +468,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*=================================================================
-	Portfolio section
+	Testimonial section
 ==================================================================*/
 
 #testimonial {
@@ -809,62 +809,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #DC143C;
 }
 
-/*=================================================================
-	Pricing section
-==================================================================*/
-
-#pricing {
-    padding: 70px 0;
-}
-
-.pricing {
-	background-color: #2b2c30;
-}
-
-.price-title {
-  background-color: #2b2c30;
-  padding: 30px 0 20px;
-}
-
-.price-title > h3 {
-    color: #DC143C;
-    font-family: Oswald;
-    font-weight: 700;
-    margin: 0 0 10px;
-    text-transform: uppercase;
-}
-
-.price-title > p {
-    font-size: 18px;
-    font-weight: 400;
-}
-
-
-.price-title .value {
-	color: #DC143C;
-	font-size: 30px;
-}
-
-.pricing li {
-    border-top: 2px solid #3F4045;
-    font-weight: 400;
-    padding: 10px 0;
-}
-
-.pricing li:last-child {
-    border-bottom: 2px solid #3F4045;
-}
-
-.pricing li:nth-child(2n) {
-    background-color: #2F3035;
-}
-
-.pricing a.btn {
-    text-transform: uppercase;
-	margin: 20px 0;
-}
-
-
 
 /*=================================================================
 	Testimonial section
@@ -991,7 +935,252 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px;
 }
 
+/*=================================================================
+	Gallery
+==================================================================*/
 
+#gallery {
+    padding: 70px 0 0;
+}
+
+.gallery-grid{
+    list-style: none;
+    padding: 20px 0;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+.gallery-grid li{
+    display: inline-block;
+    margin: 0 0 3px 0;
+    vertical-align: top;
+    height: 250px;
+    width: 300px;
+}
+
+.gallery-grid li > a {
+     display: block; 
+     overflow: hidden; 
+     position: relative; 
+}
+
+.gallery-grid li > a img{
+    border: none;
+    outline: none;
+    display: block;
+    position: relative;
+    max-width: 100%;
+    height: 250px;
+}
+
+
+.gallery-grid li > a img {
+	overflow: hidden;
+	position: relative;
+}
+
+.gallery-grid li > a img {
+	-webkit-transition: all 0.6s ease 0s;
+	   -moz-transition: all 0.6s ease 0s;
+		 -o-transition: all 0.6s ease 0s;
+			transition: all 0.6s ease 0s;
+}
+
+.gallery-grid li > a img:hover {
+	-webkit-transform: scale(1.2);
+	   -moz-transform: scale(1.2);
+		-ms-transform: scale(1.2);
+		 -o-transform: scale(1.2);
+			transform: scale(1.2);
+}
+
+.poptrox-popup {
+		-moz-box-sizing: content-box;
+		-webkit-box-sizing: content-box;
+		-ms-box-sizing: content-box;
+		box-sizing: content-box;
+		background: #fff;
+		/*padding-bottom: 3em;*/
+		box-shadow: 0 0.1em 0.15em 0 rgba(0, 0, 0, 0.15);
+	}
+
+.poptrox-popup .loader {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -1em 0 0 -1em;
+	width: 2em;
+	height: 2em;
+	display: block;
+	font-size: 2em;
+}
+
+.poptrox-popup .loader:before {
+	-moz-animation: spinner-rotate 0.75s infinite linear !important;
+	-webkit-animation: spinner-rotate 0.75s infinite linear !important;
+	-ms-animation: spinner-rotate 0.75s infinite linear !important;
+	animation: spinner-rotate 0.75s infinite linear !important;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: none !important;
+	color: #e5e6e7;
+	content: '\f1ce';
+	cursor: default;
+	display: block;
+	height: 2em;
+	left: 0;
+	line-height: 2em;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	width: 2em;
+}
+
+.poptrox-popup .caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background: #ffffff;
+	width: 100%;
+	height: 3em;
+	line-height: 2.8em;
+	text-align: center;
+	cursor: default;
+	z-index: 1;
+	font-size: 0.9em;
+}
+
+.poptrox-popup .nav-next,
+.poptrox-popup .nav-previous {
+	-moz-transition: opacity 0.2s ease-in-out;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+	position: absolute;
+	top: 0;
+	width: 50%;
+	height: 100%;
+	opacity: 0;
+	cursor: pointer;
+	background: rgba(0, 0, 0, 0.01);
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+.poptrox-popup .nav-next:before,
+.poptrox-popup .nav-previous:before {
+	content: '';
+	position: absolute;
+	width: 96px;
+	height: 64px;
+	background: url("../img/poptrox/poptrox-nav.svg");
+	top: calc(50% - 1.5em);
+	margin: -32px 0 0 0;
+}
+
+.poptrox-popup:hover .nav-next,
+.poptrox-popup:hover .nav-previous {
+	opacity: 0.5;
+}
+
+.poptrox-popup:hover .nav-next:hover,
+.poptrox-popup:hover .nav-previous:hover {
+	opacity: 1.0;
+}
+
+.poptrox-popup .nav-previous:before {
+	-moz-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	-ms-transform: scaleX(-1);
+	transform: scaleX(-1);
+	-ms-filter: "FlipH";
+	filter: FlipH;
+}
+
+.poptrox-popup .nav-next {
+	right: 0;
+}
+
+	.poptrox-popup .nav-next:before {
+		right: 0;
+	}
+
+.poptrox-popup .nav-previous {
+	left: 0;
+}
+
+	.poptrox-popup .nav-previous:before {
+		left: 0;
+	}
+
+.poptrox-popup .closer {
+	-moz-transition: opacity 0.2s ease-in-out;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 64px;
+	height: 64px;
+	text-indent: -9999px;
+	z-index: 2;
+	opacity: 0;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+	.poptrox-popup .closer:before {
+		content: '';
+		display: block;
+		position: absolute;
+		right: 16px;
+		top: 16px;
+		width: 40px;
+		height: 40px;
+		border-radius: 100%;
+		box-shadow: inset 0 0 0 2px #fff;
+		background: url("../img/poptrox/poptrox-closer.svg") center center;
+		color: #ffffff !important;
+	}
+
+.poptrox-popup:hover .closer {
+	opacity: 0.5;
+}
+
+	.poptrox-popup:hover .closer:hover {
+		opacity: 1.0;
+	}
+
+body.is-touch .poptrox-popup .nav-next,
+body.is-touch .poptrox-popup .nav-previous,
+body.is-touch .poptrox-popup .closer {
+	opacity: 1.0 !important;
+}
+
+@media screen and (max-width: 736px) {
+
+	.poptrox-popup .nav-next:before,
+	.poptrox-popup .nav-previous:before {
+		width: 48px;
+		height: 32px;
+		background-size: contain;
+		margin: -16px 0 0 0;
+	}
+
+	.poptrox-popup .closer:before {
+		right: 12px;
+		top: 12px;
+		width: 20px;
+		height: 20px;
+		box-shadow: inset 0 0 0 1px #fff;
+		background-size: contain;
+		opacity: 0.65;
+	}
+
+}
 /*=================================================================
 	Latest Posts
 ==================================================================*/

@@ -37,6 +37,8 @@ define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 define('HEADER_TITLE','Mr & Mrs Muslim Weddings');
+define('HEADER_DESCRIPTION','Mr & Mrs Muslim Weddings');
+define('DEFAULT_IMG_ALT','Mr & Mrs Muslim Weddings');
 
 
 /* End of file constants.php */
