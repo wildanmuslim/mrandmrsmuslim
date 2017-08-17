@@ -11,11 +11,11 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<meta property="title" content="Mr & Mrs Muslim Weddings" />
 		<meta property="og:title" content="Mr & Mrs Muslim Weddings" />
-		<meta property="og:image" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
+		<meta property="og:image" content="<?php echo base_url('images/sosmedshare.jpg')?>?thn=1" />
 		<meta property="og:url" content="<?php echo base_url()?>" />
 		<meta property="og:description" content="We are Getting Married" />
 		<meta property="twitter:title" content="Mr & Mrs Muslim Weddings" />
-		<meta property="twitter:image:src" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
+		<meta property="twitter:image:src" content="<?php echo base_url('images/sosmedshare.jpg')?>?thn=1" />
 	</head>
 	<body>
 
@@ -39,7 +39,7 @@
 				<ul class="icons">
 					<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//http://mrandmrsmuslim.com/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 					<li><a href="https://twitter.com/intent/tweet?text=http%3A//http://mrandmrsmuslim.com/" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="https://pinterest.com/pin/create/link/?url=<?php echo base_url('images/DSC_7262.jpg')?>" target="_blank" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+					<li><a href="https://pinterest.com/pin/create/link/?url=<?php echo base_url('images/sosmedshare.jpg')?>" target="_blank" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; mrandmrsmuslim.com</li><li>Photo by: <a href="https://www.instagram.com/fireworks_photography/" target="_blank">Fireworks Photography</a></li>
