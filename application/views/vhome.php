@@ -246,25 +246,28 @@
 					</div>
 					<!-- /section title -->
 					
-					<article class="col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms">
-						<div class="service-block text-center">
-							<div class="service-icon text-center">
-								<i class="fa fa-map-marker fa-5x"></i>
+					<div class="col-md-4 col-md-offset-2 text-center wow fadeInUp" data-wow-duration="500ms" >
+						<div class="wrap-about">							
+							<div class="icon-box">
+								<i class="fa fa-map-marker fa-4x"></i>
 							</div>
-							<h3>Location</h3>
+							<div class="about-content text-center">
+								<h3>Location</h3>
 							<p>PUSSEN ARHANUD, Jalan Stasion, Jl. Sriwijaya Raya No. 1, Kel. Setiamanah, Kec. Cimahi Tengah, Setiamanah, Cimahi Tengah, Kota Cimahi</p>
-						</div>
-					</article>
-
-					<article class="col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
-						<div class="service-block text-center">
-							<div class="service-icon text-center">
-								<i class="fa fa-calendar fa-5x"></i>
 							</div>
-							<h3>Date</h3>
-							<p>Saturday October 07,2017 <br>Akad : 08.00 WIB, Resepsi : 11.00 - 14.00 WIB</p>
 						</div>
-					</article>
+					</div> 
+					<div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="250ms">
+						<div class="wrap-about">
+							<div class="icon-box">
+								<i class="fa fa-calendar fa-4x"></i>
+							</div>
+							<div class="about-content text-center">
+								<h3>Date</h3>
+								<p>Saturday October 07,2017 <br>Akad : 08.00 WIB, Resepsi : 11.00 - 14.00 WIB</p>
+							</div>
+						</div>
+					</div> 
 				
 				</div> <!-- end row -->
 			</div> <!-- end container -->
@@ -402,13 +405,102 @@
 				</ul> <!-- end og grid -->
 			</div>  <!-- portfolio items wrapper -->	
 		</section>   <!-- End section -->
-
-		<section id="parallax-3" class="parallax-section">
+		<section id="testimonial-2" class="parallax-section">
 			<div class="container">
-				<div class="row">
-				</div>
-			</div>   	<!-- end container -->
-		</section>   <!-- end section -->
+				<div class="row">				
+					<div class="col-lg-12">
+					
+						<!-- section title -->
+						<div class="sub-title text-center wow fadeInDown" data-wow-duration="500ms">
+							<h3>What Our Beloved Friends Say About Us</h3>
+						</div>
+						<!-- /section title -->
+
+						<!-- testimonial wrapper -->
+						<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+						
+							<!-- testimonial single -->
+							<div class="item text-center">
+								
+								<!-- client photo -->
+								<div class="client-thumb">
+									<img src="images/home/friends/ifa.jpg" class="img-responsive" alt="Meghna">
+								</div>
+								<!-- /client photo -->
+								
+								<!-- client info -->
+								<div class="client-info">
+									<div class="client-meta">
+										<h3>Puteri Sarah Nursyifayanti</h3>
+									</div>
+									<div class="client-comment">
+										<p>Halo. </p>
+										<p>	Wildan itu di mata Ifa adalah orang yang sangat supportive dan perhatian sama teman. Wildan juga orang yang bisa membawa diri untuk jadi orang yang sukses dan berguna bagi keluarga dan teman-teman terdekat. Ga salah saat Siska memilih Wildan, karena Ifa yakin Wildan dapat menjadi kepala keluarga yang baik untuk Siska dan anak - anak nya kelak. Semoga keluarga Wildan nanti selalu diberkahi Allah, dikuatkan dalam menghadapi rintangan pernikahan dan diberi kebahagiaan selalu.</p>
+									</div>
+								</div>
+								<!-- /client info -->
+							</div>
+							<!-- /testimonial single -->
+						
+							<!-- testimonial single -->
+							<div class="item text-center">
+								
+								<!-- client photo -->
+								<div class="client-thumb">
+									<img src="images/home/friends/portx2.jpg" class="img-responsive" alt="Meghna">
+								</div>
+								<!-- /client photo -->
+								
+								<!-- client info -->
+								<div class="client-info">
+									<div class="client-meta">
+										<h3>Putri Irma Bratawijaya K</h3>
+									</div>
+									<div class="client-comment">
+										<p>Dear Wildan dan Siska,</p>
+										<p>Seneng banget ketika tau kalian mau nikah. Wildan adalah salah satu sahabat terbaik. Dia tipe orang yang sangat sigap,dapat diandalkan,dan juga rajin banget. Tipe-tipe suami idaman banget lah. But not for me sih. Hehe. Karena ke wildan itu udh bukan nganggep cowo,tapi lebih kayak saudara. Dia itu salah satu yang bisa mengejar impian dengan semangat yang membara. Tapi juga orang yang siap sedia membantu orang yang memerlukan. Makanya ga salah deh siska milih wildan. Siska juga tipe yang emang bisa ngimbangin wildan. Cewe rajin dan seneng dandan ini. Cucok lah kalian. Duh kepanjangan nanti testimoni nya. Ga akan cukup satu halaman juga buat ngomongin ini. Tapi intinya semoga kalian bisa menjadi keluarga sakinnah mawaddah warrahmah Aamiin YRA. Keep humble and stay cool ya , kalian</p>
+											<p>Dari orang keren yg pendiam dan pemalu se jagad raya</p>
+									</div>
+								</div>
+								<!-- /client info -->
+							</div>
+							<!-- /testimonial single -->
+						
+							<!-- testimonial single -->
+							<div class="item text-center">
+								
+								<!-- client photo -->
+								<div class="client-thumb">
+									<img src="images/home/friends/mbak_oi.jpg" class="img-responsive" alt="Meghna">
+								</div>
+								<!-- /client photo -->
+								
+								<!-- client info -->
+								<div class="client-info">
+									<div class="client-meta">
+										<h3>Qori Mauludiah</h3>
+									</div>
+									<div class="client-comment">
+										<p>Ga nyangka yaa kaliaaaan akhirnya sampe tahap ini => Nikaahhh, Yeaaah akhirnyaaaaa
+											Artinya idan ama siska pasangan yang benar2 bisa saling melengkapi dan saling menguatkaan...
+											Doa untuk sekarang=> yang lancar sampai hari H yaaaa
+											Doa setelah akad nanti=> sing jadi keluarga sakinah mawardah dan warohmah...
+											Langgeng sampe kakek nenek sampai maut memisahkan... *tsaaahh
+											Sing jodoh dunia akhirat.. Pokoknya doa yang terbaik buat kalian yaaa.. mulai dari nambah berkah rezekinya, kesehatannya, dipermudah segala urusannya ke depan... sing jadi ibu & bapak yang the best buat anak2nyaa nanti.. aamiin, aamiin, aamiinnn Yaa Rabb...
+											Hughug buat siskaaaaa
+											</p>
+											<p>-Dari mbak kalian yang bukan orang jawa tapi orang sunda-</p>
+									</div>
+								</div>
+								<!-- /client info -->
+							</div>
+							<!-- /testimonial single -->
+							
+						</div>		<!-- end testimonial wrapper -->
+					</div> 		<!-- end col lg 12 -->
+				</div>	    <!-- End row -->
+			</div>       <!-- End container -->
+		</section>    <!-- End Section -->
 		<!-- testimonial -->
 		<section id="gallery">
 			<div class="container">
@@ -434,8 +526,8 @@
 					<li><a href="images/home/gallery/fulls/4.jpg"><img class="img" src="images/home/gallery/thumbs/4.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
 					<li><a href="images/home/gallery/fulls/5.jpg"><img class="img" src="images/home/gallery/thumbs/5.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
 					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
-					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
-					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/7.jpg"><img class="img" src="images/home/gallery/thumbs/7.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/8.jpg"><img class="img" src="images/home/gallery/thumbs/8.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
 				</ul>
 			</div>
 		</section>   <!-- End section -->

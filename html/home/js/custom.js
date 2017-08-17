@@ -190,7 +190,11 @@ jQuery(function ($) { "use strict";
 		slideSpeed: 500,
 		paginationSpeed: 500,
 		singleItem: true,
-		pagination : true,
+		pagination : false,
+		autoplayTimeout : 7000,
+		autoPlay:true,
+		navigation:true,
+		navigationText: ["<i class='fa fa-angle-left fa-4x'></i>","<i class='fa fa-angle-right fa-4x'></i>"],
 		transitionStyle : "backSlide"
 	});
 
@@ -485,7 +489,7 @@ $(function() {
 function parallaxInit() {
 	$('#parallax-1').parallax("80%", 0.3);
 	$('#parallax-2').parallax("50%", 0.3);
-	$('#parallax-3').parallax("50%", 0.3);
+	$('#testimonial-2').parallax("50%", 0.3);
 }
 
 $(window).bind("load", function () {
