@@ -37,8 +37,8 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//ourstories.id/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="https://twitter.com/intent/tweet?text=http%3A//ourstories.id/" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//http://mrandmrsmuslim.com/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://twitter.com/intent/tweet?text=http%3A//http://mrandmrsmuslim.com/" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="https://pinterest.com/pin/create/link/?url=<?php echo base_url('images/DSC_7262.jpg')?>" target="_blank" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 				</ul>
 				<ul class="copyright">
