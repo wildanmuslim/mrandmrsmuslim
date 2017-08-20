@@ -52,8 +52,7 @@
 			<li><a href="/#body" title="">Home</a></li>
 			<li><a href="/#couple" title="">Couple</a></li>
 			<li><a href="/#the-day" title="">The Day</a></li>
-			<li><a href="/#" title="">Our Stories</a></li>
-			<li><a href="/#" title="">Gallery</a></li>					
+			<li><a href="/#gallery" title="">Gallery</a></li>					
 			<li><a href="/#testimonial" title="">Friends</a></li>					
 		</ul>
 	</nav>

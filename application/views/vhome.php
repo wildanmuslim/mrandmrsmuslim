@@ -225,8 +225,8 @@
 				<div class="row">
 					
 					<div class="title text-center wow fadeIn" data-wow-duration="500ms">
-						<h2>WHERE AND WHEN</h2>
-						<h3>OF THE MARRIAGE</h3>
+						<h2>The MARRIAGE</h2>
+						<h3>WHERE AND WHEN</h3>
 						<div class="border"></div>
 					</div>
 					
@@ -301,12 +301,25 @@
 			<!-- portfolio items -->
 			<div class="portfolio-item-wrapper wow fadeInUp" data-wow-duration="500ms">
                 <ul id="og-grid" class="og-grid">
-				
-						
+					<li class="mix wildan">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/musa-dita.jpg" data-title="Musa & Dita" data-description="Musa:
+						Karena sejatinya tujuan pernikahan adalah membangun. Membangunkan untuk sholat qiyamulail berjamaah. Membangunkan untuk sholat subuh berjamaah. Kenapa solat? Karena solat adalah tiangnya agama, dan itulah yang selalu diperintahkan oleh ayah-ibu mu disetiap saat bukan? Dan sekaranglah saatnya kalian berdua mengambil peran tersebut. Visi kedepan harus jelas, dan awalilah selalu semuanya dari sholat. Madrasatul ulla adalah relation goals yang diperintahkan rasulMu. Selalu berbaik sangkalah, selalu berbaik hatilah, mari kita belajar bersama sahabat :') (Sahabat, Musa Sulthon Sibghotulloh)
+						</p><p>
+						Dita:
+						Kini kapal siap berlayar, kini nahkoda tak akan mampu pergi sendiri. Selamat menjelajah, temukan ilmu yang tak kau dapat ketika berdiri sendiri, manis dunia hanya setitik tetap tenang jutaan berkah Allah siap memandu kalian berdua. (Calon Sahabatnya Sahabat, Novadita Dwiputri)">
+							<img src="images/home/friends/musa-dita.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>Musa & Dita</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>
+						</a>
+					</li>						
 					<li class="mix wildan">
 						<a href="javascript:void(0)" data-largesrc="images/home/friends/anggia-yuni.jpg" data-title="Anggia & Yuni" data-description="'Semoga Allah mengumpulkan kesempurnaan kalian berdua, membahagiakan kesungguhan kalian berdua, memberkahi kalian berdua, dan mengeluarkan kebajikan dari kalian berdua yang banyak.' (Doa Rasulullah SAW saat menikahkan Fatimah Az-Zahra') H.R Anas Ibn Malik r.a <br>
 						Barakallahu laka wa baraka 'alaika wa jama'a baynakuma fii khair. Wildan dan Siska<br>
-						Menjadi keluarga yang sakinah, mawadah dan warahmah sampai ke surganya. Aamiin">
+						Menjadi keluarga yang sakinah, mawadah dan warahmah sampai ke surganya.</p><p>Aamiin">
 							<img src="images/home/friends/anggia-yuni.jpg" alt="Anggia & Yuni">
 							<div class="hover-mask">
 								<h3>Anggia & Yuni</h3>
@@ -316,11 +329,11 @@
 							</div>
 						</a>
 					</li>
-					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Veggies sunt bona vobis" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+					<li class="mix wildan">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Veggies sunt bona vobis</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
@@ -328,21 +341,10 @@
 						</a>
 					</li>
 					<li class="mix wildan">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Dandelion horseradish" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Dandelion horseradish</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>
-						</a>
-					</li>
-					<li class="mix wildan">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Dandelion horseradish" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>Dandelion horseradish</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
@@ -350,10 +352,10 @@
 						</a>
 					</li>
 					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Azuki bean" data-description="Swiss chard pumpkin bunya nuts maize plantain aubergine napa cabbage soko coriander sweet pepper water spinach winter purslane shallot tigernut lentil beetroot.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Swiss chard pumpkin bunya nuts maize plantain aubergine napa cabbage soko coriander sweet pepper water spinach winter purslane shallot tigernut lentil beetroot.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Azuki bean</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
@@ -361,10 +363,32 @@
 						</a>
 					</li>
 					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Veggies sunt bona vobis" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Veggies sunt bona vobis</h3>
+								<h3>My Friend</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>	
+						</a>
+					</li>
+					<li class="mix siska">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+							<img src="images/home/friends/portx1.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>My Friend</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>	
+						</a>
+					</li>
+					<li class="mix siska">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+							<img src="images/home/friends/portx1.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
@@ -417,7 +441,7 @@
 								
 								<!-- client photo -->
 								<div class="client-thumb">
-									<img src="images/home/friends/portx2.jpg" class="img-responsive" alt="Meghna">
+									<img src="images/home/friends/putri.jpg" class="img-responsive" alt="Meghna">
 								</div>
 								<!-- /client photo -->
 								
