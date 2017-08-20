@@ -8,11 +8,11 @@
         <meta name="description" content="<?php echo HEADER_DESCRIPTION ?>">
         <meta property="title" content="<?php echo HEADER_TITLE ?>" />
 		<meta property="og:title" content="<?php echo HEADER_TITLE ?>" />
-		<meta property="og:image" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
+		<meta property="og:image" content="<?php echo base_url('images/sosmedshare.jpg')?>?thn=1" />
 		<meta property="og:url" content="<?php echo base_url()?>" />
 		<meta property="og:description" content="<?php echo HEADER_DESCRIPTION ?>" />
 		<meta property="twitter:title" content="<?php echo HEADER_TITLE ?>" />
-		<meta property="twitter:image:src" content="<?php echo base_url('images/DSC_7262.jpg')?>?thn=1" />
+		<meta property="twitter:image:src" content="<?php echo base_url('images/sosmedshare.jpg')?>?thn=1" />
 		
         <title><?php echo HEADER_TITLE ?></title>
 		
@@ -59,13 +59,7 @@
 				<img alt="Meghna Preloader" src="html/home/img/preloader.gif"  />
 			</div>
 		</div>
-        <!--
-        End Preloader
-        ==================================== -->
 		
-        <!--
-        Welcome Slider
-        ==================================== -->
 		<section id="home">	    
 		
             <div id="slitSlider" class="sl-slider-wrapper">
@@ -177,34 +171,25 @@
 			<div class="container">
 				<div class="row">
 				
-					<!-- section title -->
+					
 					<div class="title text-center wow fadeInUp" data-wow-duration="500ms">
 						<h2>Couple</h2>
 						<div class="border"></div>
 					</div>
-					<!-- /section title -->
-					
 					<!-- Couple speech -->
 					<div class="col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="500ms">
                        <article class="couple-mate">
 							<div class="member-photo">
 								<img class="img-responsive" src="images/home/one.jpg" alt="Siska">
 							</div>
-							
-							<!-- member name & designation -->
 							<div class="member-title">
 								<h3>Fransiska Fitriyanti</h3>
 								<span>The Bride</span>
+							</div>							
+							<div class="member-info">
+							   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
 							</div>
-							<!-- /member name & designation -->
-							
-							<!-- about member -->
-                           <div class="member-info">
-                               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
-                           </div>
-						   <!-- /about member -->
-						   
-                       </article>
+						</article>
                     </div>
 					
 					<div class="col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
@@ -223,65 +208,68 @@
                     </div>
 					<!-- end Couple speech -->
 					
-				</div>  	<!-- End row -->
-			</div>   	<!-- End container -->
-		</section>   <!-- End section -->
+				</div>  	
+			</div>   	
+		</section>   
 
 		<section id="parallax-1" class="parallax-section">
 			<div class="container">
 				<div class="row">
 				</div>
-			</div>   	<!-- end container -->
-		</section>   <!-- end section -->
+			</div>   	
+		</section>   
 		
 		<!-- the day -->		
 		<section id="the-day">
 			<div class="container">
 				<div class="row">
-					<!-- section title -->
+					
 					<div class="title text-center wow fadeIn" data-wow-duration="500ms">
-						<h2>WHERE AND WHEN</h2>
-						<h3>OF THE MARRIAGE</h3>
+						<h2>The MARRIAGE</h2>
+						<h3>WHERE AND WHEN</h3>
 						<div class="border"></div>
 					</div>
-					<!-- /section title -->
 					
-					<article class="col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms">
-						<div class="service-block text-center">
-							<div class="service-icon text-center">
-								<i class="fa fa-map-marker fa-5x"></i>
+					
+					<div class="col-md-4 col-md-offset-2 text-center wow fadeInUp" data-wow-duration="500ms" >
+						<div class="wrap-about">							
+							<div class="icon-box">
+								<i class="fa fa-map-marker fa-4x"></i>
 							</div>
-							<h3>Location</h3>
+							<div class="about-content text-center">
+								<h3>Location</h3>
 							<p>PUSSEN ARHANUD, Jalan Stasion, Jl. Sriwijaya Raya No. 1, Kel. Setiamanah, Kec. Cimahi Tengah, Setiamanah, Cimahi Tengah, Kota Cimahi</p>
-						</div>
-					</article>
-
-					<article class="col-md-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
-						<div class="service-block text-center">
-							<div class="service-icon text-center">
-								<i class="fa fa-calendar fa-5x"></i>
 							</div>
-							<h3>Date</h3>
-							<p>Saturday October 07,2017 <br>Akad : 08.00 WIB, Resepsi : 11.00 - 14.00 WIB</p>
 						</div>
-					</article>
+					</div> 
+					<div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="250ms">
+						<div class="wrap-about">
+							<div class="icon-box">
+								<i class="fa fa-calendar fa-4x"></i>
+							</div>
+							<div class="about-content text-center">
+								<h3>Date</h3>
+								<p>Saturday October 07,2017 <br>Akad : 08.00 WIB, Resepsi : 11.00 - 14.00 WIB</p>
+							</div>
+						</div>
+					</div> 
 				
-				</div> <!-- end row -->
-			</div> <!-- end container -->
+				</div> 
+			</div> 
 			
 			<!-- Google Map -->
 			<div class="google-map wow fadeInDown" data-wow-duration="500ms">
 				<div id="map-canvas"></div>
 			</div>	
 			<!-- /Google Map -->
-		</section> <!-- end section -->
+		</section> 
 		
 		<section id="parallax-2" class="parallax-section">
 			<div class="container">
 				<div class="row">
 				</div>
-			</div>   	<!-- end container -->
-		</section>   <!-- end section -->
+			</div>   	
+		</section>   
 		
 		<!-- testimonial -->
 		<section id="testimonial">
@@ -289,12 +277,12 @@
 				<div class="row wow fadeInDown" data-wow-duration="500ms">
 					<div class="col-lg-12">
 					
-						<!-- section title -->
+						
 						<div class="title text-center">
 							<h2>Our <span class="color">Friends</span></h2>
 							<div class="border"></div>
 						</div>
-						<!-- /section title -->
+						
 					
 						<!-- portfolio item filtering -->
 						<div class="portfolio-filter clearfix">
@@ -306,19 +294,32 @@
 						</div>
 						<!-- /portfolio item filtering -->
 						
-					</div> <!-- /end col-lg-12 -->
-				</div> <!-- end row -->
-			</div>	<!-- end container -->
+					</div> 
+				</div> 
+			</div>	
 	
 			<!-- portfolio items -->
 			<div class="portfolio-item-wrapper wow fadeInUp" data-wow-duration="500ms">
                 <ul id="og-grid" class="og-grid">
-				
-					<!-- single portfolio item -->	
+					<li class="mix wildan">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/musa-dita.jpg" data-title="Musa & Dita" data-description="Musa:
+						Karena sejatinya tujuan pernikahan adalah membangun. Membangunkan untuk sholat qiyamulail berjamaah. Membangunkan untuk sholat subuh berjamaah. Kenapa solat? Karena solat adalah tiangnya agama, dan itulah yang selalu diperintahkan oleh ayah-ibu mu disetiap saat bukan? Dan sekaranglah saatnya kalian berdua mengambil peran tersebut. Visi kedepan harus jelas, dan awalilah selalu semuanya dari sholat. Madrasatul ulla adalah relation goals yang diperintahkan rasulMu. Selalu berbaik sangkalah, selalu berbaik hatilah, mari kita belajar bersama sahabat :') (Sahabat, Musa Sulthon Sibghotulloh)
+						</p><p>
+						Dita:
+						Kini kapal siap berlayar, kini nahkoda tak akan mampu pergi sendiri. Selamat menjelajah, temukan ilmu yang tak kau dapat ketika berdiri sendiri, manis dunia hanya setitik tetap tenang jutaan berkah Allah siap memandu kalian berdua. (Calon Sahabatnya Sahabat, Novadita Dwiputri)">
+							<img src="images/home/friends/musa-dita.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>Musa & Dita</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>
+						</a>
+					</li>						
 					<li class="mix wildan">
 						<a href="javascript:void(0)" data-largesrc="images/home/friends/anggia-yuni.jpg" data-title="Anggia & Yuni" data-description="'Semoga Allah mengumpulkan kesempurnaan kalian berdua, membahagiakan kesungguhan kalian berdua, memberkahi kalian berdua, dan mengeluarkan kebajikan dari kalian berdua yang banyak.' (Doa Rasulullah SAW saat menikahkan Fatimah Az-Zahra') H.R Anas Ibn Malik r.a <br>
 						Barakallahu laka wa baraka 'alaika wa jama'a baynakuma fii khair. Wildan dan Siska<br>
-						Menjadi keluarga yang sakinah, mawadah dan warahmah sampai ke surganya. Aamiin">
+						Menjadi keluarga yang sakinah, mawadah dan warahmah sampai ke surganya.</p><p>Aamiin">
 							<img src="images/home/friends/anggia-yuni.jpg" alt="Anggia & Yuni">
 							<div class="hover-mask">
 								<h3>Anggia & Yuni</h3>
@@ -328,103 +329,188 @@
 							</div>
 						</a>
 					</li>
-					<!-- /single portfolio item -->
-					
-					<!-- single portfolio item -->
-					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Veggies sunt bona vobis" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>Veggies sunt bona vobis</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>
-						</a>
-					</li>
-					<!-- /single portfolio item -->
-					
-					<!-- single portfolio item -->
 					<li class="mix wildan">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Dandelion horseradish" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Dandelion horseradish</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
 							</div>
 						</a>
 					</li>
-					<!-- /single portfolio item -->
-					
-					<!-- single portfolio item -->
 					<li class="mix wildan">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Dandelion horseradish" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Dandelion horseradish</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
 							</div>
 						</a>
 					</li>
-					<!-- /single portfolio item -->
-					
-					<!-- single portfolio item -->
 					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Azuki bean" data-description="Swiss chard pumpkin bunya nuts maize plantain aubergine napa cabbage soko coriander sweet pepper water spinach winter purslane shallot tigernut lentil beetroot.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Swiss chard pumpkin bunya nuts maize plantain aubergine napa cabbage soko coriander sweet pepper water spinach winter purslane shallot tigernut lentil beetroot.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Azuki bean</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
 							</div>
 						</a>
 					</li>
-					<!-- /single portfolio item -->
-					
-					<!-- single portfolio item -->
 					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="Veggies sunt bona vobis" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
 							<img src="images/home/friends/portx1.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>Veggies sunt bona vobis</h3>
+								<h3>My Friend</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
 							</div>	
 						</a>
 					</li>
-					<!-- /single portfolio item -->
+					<li class="mix siska">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+							<img src="images/home/friends/portx1.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>My Friend</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>	
+						</a>
+					</li>
+					<li class="mix siska">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
+							<img src="images/home/friends/portx1.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>My Friend</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>	
+						</a>
+					</li>
+					
 				</ul> <!-- end og grid -->
-			</div>  <!-- portfolio items wrapper -->	
-		</section>   <!-- End section -->
-
-		<section id="parallax-3" class="parallax-section">
+			</div>  
+		</section>   
+		<section id="testimonial-2" class="parallax-section">
 			<div class="container">
-				<div class="row">
-				</div>
-			</div>   	<!-- end container -->
-		</section>   <!-- end section -->
+				<div class="row">				
+					<div class="col-lg-12">
+					
+						
+						<div class="sub-title text-center wow fadeInDown" data-wow-duration="500ms">
+							<h3>What Our Beloved Friends Say About Us</h3>
+						</div>
+						
+
+						<!-- testimonial wrapper -->
+						<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+						
+							<!-- testimonial single -->
+							<div class="item text-center">
+								
+								<!-- client photo -->
+								<div class="client-thumb">
+									<img src="images/home/friends/ifa.jpg" class="img-responsive" alt="Meghna">
+								</div>
+								<!-- /client photo -->
+								
+								<!-- client info -->
+								<div class="client-info">
+									<div class="client-meta">
+										<h3>Puteri Sarah Nursyifayanti</h3>
+									</div>
+									<div class="client-comment">
+										<p>Halo. </p>
+										<p>	Wildan itu di mata Ifa adalah orang yang sangat supportive dan perhatian sama teman. Wildan juga orang yang bisa membawa diri untuk jadi orang yang sukses dan berguna bagi keluarga dan teman-teman terdekat. Ga salah saat Siska memilih Wildan, karena Ifa yakin Wildan dapat menjadi kepala keluarga yang baik untuk Siska dan anak - anak nya kelak. Semoga keluarga Wildan nanti selalu diberkahi Allah, dikuatkan dalam menghadapi rintangan pernikahan dan diberi kebahagiaan selalu.</p>
+									</div>
+								</div>
+								<!-- /client info -->
+							</div>
+							<!-- /testimonial single -->
+						
+							<!-- testimonial single -->
+							<div class="item text-center">
+								
+								<!-- client photo -->
+								<div class="client-thumb">
+									<img src="images/home/friends/putri.jpg" class="img-responsive" alt="Meghna">
+								</div>
+								<!-- /client photo -->
+								
+								<!-- client info -->
+								<div class="client-info">
+									<div class="client-meta">
+										<h3>Putri Irma Bratawijaya K</h3>
+									</div>
+									<div class="client-comment">
+										<p>Dear Wildan dan Siska,</p>
+										<p>Seneng banget ketika tau kalian mau nikah. Wildan adalah salah satu sahabat terbaik. Dia tipe orang yang sangat sigap,dapat diandalkan,dan juga rajin banget. Tipe-tipe suami idaman banget lah. But not for me sih. Hehe. Karena ke wildan itu udh bukan nganggep cowo,tapi lebih kayak saudara. Dia itu salah satu yang bisa mengejar impian dengan semangat yang membara. Tapi juga orang yang siap sedia membantu orang yang memerlukan. Makanya ga salah deh siska milih wildan. Siska juga tipe yang emang bisa ngimbangin wildan. Cewe rajin dan seneng dandan ini. Cucok lah kalian. Duh kepanjangan nanti testimoni nya. Ga akan cukup satu halaman juga buat ngomongin ini. Tapi intinya semoga kalian bisa menjadi keluarga sakinnah mawaddah warrahmah Aamiin YRA. Keep humble and stay cool ya , kalian</p>
+											<p>Dari orang keren yg pendiam dan pemalu se jagad raya</p>
+									</div>
+								</div>
+								<!-- /client info -->
+							</div>
+							<!-- /testimonial single -->
+						
+							<!-- testimonial single -->
+							<div class="item text-center">
+								
+								<!-- client photo -->
+								<div class="client-thumb">
+									<img src="images/home/friends/mbak_oi.jpg" class="img-responsive" alt="Meghna">
+								</div>
+								<!-- /client photo -->
+								
+								<!-- client info -->
+								<div class="client-info">
+									<div class="client-meta">
+										<h3>Qori Mauludiah</h3>
+									</div>
+									<div class="client-comment">
+										<p>Ga nyangka yaa kaliaaaan akhirnya sampe tahap ini => Nikaahhh, Yeaaah akhirnyaaaaa
+											Artinya idan ama siska pasangan yang benar2 bisa saling melengkapi dan saling menguatkaan...
+											Doa untuk sekarang=> yang lancar sampai hari H yaaaa
+											Doa setelah akad nanti=> sing jadi keluarga sakinah mawardah dan warohmah...
+											Langgeng sampe kakek nenek sampai maut memisahkan... *tsaaahh
+											Sing jodoh dunia akhirat.. Pokoknya doa yang terbaik buat kalian yaaa.. mulai dari nambah berkah rezekinya, kesehatannya, dipermudah segala urusannya ke depan... sing jadi ibu & bapak yang the best buat anak2nyaa nanti.. aamiin, aamiin, aamiinnn Yaa Rabb...
+											Hughug buat siskaaaaa
+											</p>
+											<p>-Dari mbak kalian yang bukan orang jawa tapi orang sunda-</p>
+									</div>
+								</div>
+								<!-- /client info -->
+							</div>
+							<!-- /testimonial single -->
+							
+						</div>		<!-- end testimonial wrapper -->
+					</div> 		
+				</div>	    
+			</div>       
+		</section>    
 		<!-- testimonial -->
 		<section id="gallery">
 			<div class="container">
 				<div class="row wow fadeInDown" data-wow-duration="500ms">
 					<div class="col-lg-12">
 					
-						<!-- section title -->
+						
 						<div class="title text-center">
 							<h2>Photo <span class="color">Gallery</span></h2>
 							<div class="border"></div>
 						</div>
-						<!-- /section title -->
 						
-					</div> <!-- /end col-lg-12 -->
-				</div> <!-- end row -->
-			</div>	<!-- end container -->
+						
+					</div> 
+				</div> 
+			</div>	
 	
 			<div class="containerwow fadeInUp" data-wow-duration="500ms">
 				<ul class="gallery-grid">
@@ -434,11 +520,11 @@
 					<li><a href="images/home/gallery/fulls/4.jpg"><img class="img" src="images/home/gallery/thumbs/4.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
 					<li><a href="images/home/gallery/fulls/5.jpg"><img class="img" src="images/home/gallery/thumbs/5.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
 					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
-					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
-					<li><a href="images/home/gallery/fulls/6.jpg"><img class="img" src="images/home/gallery/thumbs/6.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/7.jpg"><img class="img" src="images/home/gallery/thumbs/7.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
+					<li><a href="images/home/gallery/fulls/8.jpg"><img class="img" src="images/home/gallery/thumbs/8.jpg" alt="<?php echo DEFAULT_IMG_ALT ?>"></a></li>
 				</ul>
 			</div>
-		</section>   <!-- End section -->
+		</section>   
 
 		<footer id="footer" class="bg-one">
 			<div class="container">
@@ -450,23 +536,16 @@
 						</div>
 						<!-- /copyright -->
 						
-					</div> <!-- end col lg 12 -->
-				</div> <!-- end row -->
-			</div> <!-- end container -->
-		</footer> <!-- end footer -->
+					</div> 
+				</div> 
+			</div> 
+		</footer>
 		
 		<!-- Back to Top
 		============================== -->
 		<a href="javascript:;" id="scrollUp">
 			<i class="fa fa-angle-up fa-2x"></i>
 		</a>
-		
-		<!-- end Footer Area
-		========================================== -->
-		
-		<!-- 
-		Essential Scripts
-		=====================================-->
 		
 
 		<script src="<?php echo base_url('html/home/js/jquery-1.11.0.min.js')?>"></script>
