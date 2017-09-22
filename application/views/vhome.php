@@ -187,7 +187,10 @@
 								<span>The Bride</span>
 							</div>							
 							<div class="member-info">
-							   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+							   <p>7 years ago, you came to my live and i never ever think that you will be my most important person in my live. I never think you are The One, my mr.Right. </p>
+								<p>Masih ingat di setiap doa, saya selalu meminta didekatkan dengan orang yang baik, yang bisa membawa saya menjadi pribadi yang lebih baik, yang bisa membuat lebih dekat kepada-Nya. Dan 3 tahun yang lalu Allah kirimkan kamu kepada saya.  Allah memberikan keyakinan bahwa kamulah orang itu, orang yang bisa membawa saya ke tempat terbaik. Dunia dan akhirat. Together until Jannah, Insyaallah.</p>
+								<p>And I know it's not gonna be easy, but i trust Jannah isn't just a dream if i search it with you. Don’t compare our love story to those you read in books. They’re written by scriptwriters, ours is written by God.</p>
+								<br>
 							</div>
 						</article>
                     </div>
@@ -202,7 +205,9 @@
 								<span>The Groom</span>
 							</div>
                            <div class="member-info">
-                               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+                               	<p>Tepat 3 tahun yang lalu, memberanikan diri untuk menjanjikan kepadanya, diumur 25 thn (tahun ini) saya akan menikahinya. Walau pada perjalanannya banyak rintangan yang memungkinkan janji ini tak akan saya tepati, dengan meluruskan niat baik, Alhamdulillah dengan bantuan dan seizin Allah semua terasa begitu lancar dan dipermudah. Tak terhitung keajaiban yang silih berganti diberikan oleh Allah, memberikan apa yang terbaik untuk ku. </p>
+                               	<p>"Boleh jadi kamu membenci sesuatu, padahal ia amat baik bagimu, dan boleh jadi (pula) kamu menyukai sesuatu, padahal ia amat buruk bagimu; Allah mengetahui, sedang kamu tidak mengetahui" (QS. Al-Baqarah:216)</p>
+								<p>Terimakasih untuk selalu memberikan sikap optimis pada setiap langkah yang ku pilih.</p>
                            </div>
 						</article>
                     </div>
@@ -276,24 +281,10 @@
 			<div class="container">
 				<div class="row wow fadeInDown" data-wow-duration="500ms">
 					<div class="col-lg-12">
-					
-						
 						<div class="title text-center">
 							<h2>Our <span class="color">Friends</span></h2>
 							<div class="border"></div>
 						</div>
-						
-					
-						<!-- portfolio item filtering -->
-						<div class="portfolio-filter clearfix">
-							<ul class="text-center">
-							    <li><a href="javascript:void(0)" class="filter" data-filter="all">ALL</a></li>
-								<li><a href="javascript:void(0)" class="filter" data-filter=".siska">BRIDESMAID</a></li>
-								<li><a href="javascript:void(0)" class="filter" data-filter=".wildan">GROOMSMEN</a></li>
-							</ul>
-						</div>
-						<!-- /portfolio item filtering -->
-						
 					</div> 
 				</div> 
 			</div>	
@@ -330,10 +321,11 @@
 						</a>
 					</li>
 					<li class="mix wildan">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/ifa.jpg" data-title="Puteri Sarah Nursyifayanti" data-description="<p>Halo. </p>
+										<p>	Wildan itu di mata Ifa adalah orang yang sangat supportive dan perhatian sama teman. Wildan juga orang yang bisa membawa diri untuk jadi orang yang sukses dan berguna bagi keluarga dan teman-teman terdekat. Ga salah saat Siska memilih Wildan, karena Ifa yakin Wildan dapat menjadi kepala keluarga yang baik untuk Siska dan anak - anak nya kelak. Semoga keluarga Wildan nanti selalu diberkahi Allah, dikuatkan dalam menghadapi rintangan pernikahan dan diberi kebahagiaan selalu.</p>">
+							<img src="images/home/friends/ifa.jpg" alt="Meghna">
 							<div class="hover-mask">
-								<h3>My Friend</h3>
+								<h3>Puteri Sarah Nursyifayanti</h3>
 								<span>
 									<i class="fa fa-plus fa-2x"></i>
 								</span>
@@ -341,141 +333,20 @@
 						</a>
 					</li>
 					<li class="mix wildan">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>My Friend</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>
-						</a>
-					</li>
-					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Swiss chard pumpkin bunya nuts maize plantain aubergine napa cabbage soko coriander sweet pepper water spinach winter purslane shallot tigernut lentil beetroot.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>My Friend</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>
-						</a>
-					</li>
-					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>My Friend</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>	
-						</a>
-					</li>
-					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>My Friend</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>	
-						</a>
-					</li>
-					<li class="mix siska">
-						<a href="javascript:void(0)" data-largesrc="images/home/friends/portx1.jpg" data-title="My Friend" data-description="Komatsuna prairie turnip wattle seed artichoke mustard horseradish taro rutabaga ricebean carrot black-eyed pea turnip greens beetroot yarrow watercress kombu.">
-							<img src="images/home/friends/portx1.jpg" alt="Meghna">
-							<div class="hover-mask">
-								<h3>My Friend</h3>
-								<span>
-									<i class="fa fa-plus fa-2x"></i>
-								</span>
-							</div>	
-						</a>
-					</li>
-					
-				</ul> <!-- end og grid -->
-			</div>  
-		</section>   
-		<section id="testimonial-2" class="parallax-section">
-			<div class="container">
-				<div class="row">				
-					<div class="col-lg-12">
-					
-						
-						<div class="sub-title text-center wow fadeInDown" data-wow-duration="500ms">
-							<h3>What Our Beloved Friends Say About Us</h3>
-						</div>
-						
-
-						<!-- testimonial wrapper -->
-						<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
-						
-							<!-- testimonial single -->
-							<div class="item text-center">
-								
-								<!-- client photo -->
-								<div class="client-thumb">
-									<img src="images/home/friends/ifa.jpg" class="img-responsive" alt="Meghna">
-								</div>
-								<!-- /client photo -->
-								
-								<!-- client info -->
-								<div class="client-info">
-									<div class="client-meta">
-										<h3>Puteri Sarah Nursyifayanti</h3>
-									</div>
-									<div class="client-comment">
-										<p>Halo. </p>
-										<p>	Wildan itu di mata Ifa adalah orang yang sangat supportive dan perhatian sama teman. Wildan juga orang yang bisa membawa diri untuk jadi orang yang sukses dan berguna bagi keluarga dan teman-teman terdekat. Ga salah saat Siska memilih Wildan, karena Ifa yakin Wildan dapat menjadi kepala keluarga yang baik untuk Siska dan anak - anak nya kelak. Semoga keluarga Wildan nanti selalu diberkahi Allah, dikuatkan dalam menghadapi rintangan pernikahan dan diberi kebahagiaan selalu.</p>
-									</div>
-								</div>
-								<!-- /client info -->
-							</div>
-							<!-- /testimonial single -->
-						
-							<!-- testimonial single -->
-							<div class="item text-center">
-								
-								<!-- client photo -->
-								<div class="client-thumb">
-									<img src="images/home/friends/putri.jpg" class="img-responsive" alt="Meghna">
-								</div>
-								<!-- /client photo -->
-								
-								<!-- client info -->
-								<div class="client-info">
-									<div class="client-meta">
-										<h3>Putri Irma Bratawijaya K</h3>
-									</div>
-									<div class="client-comment">
-										<p>Dear Wildan dan Siska,</p>
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/putri.jpg" data-title="Putri Irma Bratawijaya K" data-description="<p>Dear Wildan dan Siska,</p>
 										<p>Seneng banget ketika tau kalian mau nikah. Wildan adalah salah satu sahabat terbaik. Dia tipe orang yang sangat sigap,dapat diandalkan,dan juga rajin banget. Tipe-tipe suami idaman banget lah. But not for me sih. Hehe. Karena ke wildan itu udh bukan nganggep cowo,tapi lebih kayak saudara. Dia itu salah satu yang bisa mengejar impian dengan semangat yang membara. Tapi juga orang yang siap sedia membantu orang yang memerlukan. Makanya ga salah deh siska milih wildan. Siska juga tipe yang emang bisa ngimbangin wildan. Cewe rajin dan seneng dandan ini. Cucok lah kalian. Duh kepanjangan nanti testimoni nya. Ga akan cukup satu halaman juga buat ngomongin ini. Tapi intinya semoga kalian bisa menjadi keluarga sakinnah mawaddah warrahmah Aamiin YRA. Keep humble and stay cool ya , kalian</p>
-											<p>Dari orang keren yg pendiam dan pemalu se jagad raya</p>
-									</div>
-								</div>
-								<!-- /client info -->
+											<p>Dari orang keren yg pendiam dan pemalu se jagad raya</p>">
+							<img src="images/home/friends/putri.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>Putri Irma Bratawijaya K</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
 							</div>
-							<!-- /testimonial single -->
-						
-							<!-- testimonial single -->
-							<div class="item text-center">
-								
-								<!-- client photo -->
-								<div class="client-thumb">
-									<img src="images/home/friends/mbak_oi.jpg" class="img-responsive" alt="Meghna">
-								</div>
-								<!-- /client photo -->
-								
-								<!-- client info -->
-								<div class="client-info">
-									<div class="client-meta">
-										<h3>Qori Mauludiah</h3>
-									</div>
-									<div class="client-comment">
-										<p>Ga nyangka yaa kaliaaaan akhirnya sampe tahap ini => Nikaahhh, Yeaaah akhirnyaaaaa
+						</a>
+					</li>
+					<li class="mix wildan">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/mbak_oi.jpg" data-title="Qori Mauludiah" data-description="<p>Ga nyangka yaa kaliaaaan akhirnya sampe tahap ini => Nikaahhh, Yeaaah akhirnyaaaaa
 											Artinya idan ama siska pasangan yang benar2 bisa saling melengkapi dan saling menguatkaan...
 											Doa untuk sekarang=> yang lancar sampai hari H yaaaa
 											Doa setelah akad nanti=> sing jadi keluarga sakinah mawardah dan warohmah...
@@ -483,18 +354,20 @@
 											Sing jodoh dunia akhirat.. Pokoknya doa yang terbaik buat kalian yaaa.. mulai dari nambah berkah rezekinya, kesehatannya, dipermudah segala urusannya ke depan... sing jadi ibu & bapak yang the best buat anak2nyaa nanti.. aamiin, aamiin, aamiinnn Yaa Rabb...
 											Hughug buat siskaaaaa
 											</p>
-											<p>-Dari mbak kalian yang bukan orang jawa tapi orang sunda-</p>
-									</div>
-								</div>
-								<!-- /client info -->
+											<p>-Dari mbak kalian yang bukan orang jawa tapi orang sunda-</p>">
+							<img src="images/home/friends/mbak_oi.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>Qori Mauludiah</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
 							</div>
-							<!-- /testimonial single -->
-							
-						</div>		<!-- end testimonial wrapper -->
-					</div> 		
-				</div>	    
-			</div>       
-		</section>    
+						</a>
+					</li>
+					
+				</ul> <!-- end og grid -->
+			</div>  
+		</section>  
 		<!-- testimonial -->
 		<section id="gallery">
 			<div class="container">
