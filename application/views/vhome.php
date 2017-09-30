@@ -176,42 +176,55 @@
 						<h2>Couple</h2>
 						<div class="border"></div>
 					</div>
-					<!-- Couple speech -->
-					<div class="col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="500ms">
-                       <article class="couple-mate">
-							<div class="member-photo">
-								<img class="img-responsive" src="images/home/one.jpg" alt="Siska">
-							</div>
-							<div class="member-title">
-								<h3>Fransiska Fitriyanti</h3>
-								<span>The Bride</span>
-							</div>							
-							<div class="member-info">
-							   <p>7 years ago, you came to my live and i never ever think that you will be my most important person in my live. I never think you are The One, my mr.Right. </p>
-								<p>Masih ingat di setiap doa, saya selalu meminta didekatkan dengan orang yang baik, yang bisa membawa saya menjadi pribadi yang lebih baik, yang bisa membuat lebih dekat kepada-Nya. Dan 3 tahun yang lalu Allah kirimkan kamu kepada saya.  Allah memberikan keyakinan bahwa kamulah orang itu, orang yang bisa membawa saya ke tempat terbaik. Dunia dan akhirat. Together until Jannah, Insyaallah.</p>
-								<p>And I know it's not gonna be easy, but i trust Jannah isn't just a dream if i search it with you. Don’t compare our love story to those you read in books. They’re written by scriptwriters, ours is written by God.</p>
-								<br>
-							</div>
-						</article>
-                    </div>
+					<div id="features">
+						<div class="item">
+							<!-- Couple speech -->
+							<div class="col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="500ms">
+		                       <article class="couple-mate">
+									<div class="member-photo">
+										<img class="img-responsive" src="images/home/one.jpg" alt="Siska">
+									</div>
+									<div class="member-title">
+										<h3>Fransiska Fitriyanti</h3>
+										<span>The Bride</span>
+									</div>							
+									<div class="member-info">
+									   <p>7 years ago, you came to my live and i never ever think that you will be my most important person in my live. I never think you are The One, my mr.Right. </p>
+										<p>Masih ingat di setiap doa, saya selalu meminta didekatkan dengan orang yang baik, yang bisa membawa saya menjadi pribadi yang lebih baik, yang bisa membuat lebih dekat kepada-Nya. Dan 3 tahun yang lalu Allah kirimkan kamu kepada saya.  Allah memberikan keyakinan bahwa kamulah orang itu, orang yang bisa membawa saya ke tempat terbaik. Dunia dan akhirat. Together until Jannah, Insyaallah.</p>
+										<p>And I know it's not gonna be easy, but i trust Jannah isn't just a dream if i search it with you. Don’t compare our love story to those you read in books. They’re written by scriptwriters, ours is written by God.</p>
+										<br>
+									</div>
+								</article>
+		                    </div>
+							
+							<div class="col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
+		                       <article class="couple-mate">
+									<div class="member-photo">
+										<img class="img-responsive" src="images/home/two.jpg" alt="Wildan">
+									</div>
+									<div class="member-title">
+										<h3>Wildan Muslim</h3>
+										<span>The Groom</span>
+									</div>
+		                           <div class="member-info">
+		                               	<p>Tepat 3 tahun yang lalu, memberanikan diri untuk menjanjikan kepadanya, diumur 25 thn (tahun ini) saya akan menikahinya. Walau pada perjalanannya banyak rintangan yang memungkinkan janji ini tak akan saya tepati, dengan meluruskan niat baik, Alhamdulillah dengan bantuan dan seizin Allah semua terasa begitu lancar dan dipermudah. Tak terhitung keajaiban yang silih berganti diberikan oleh Allah, memberikan apa yang terbaik untuk ku. </p>
+		                               	<p>"Boleh jadi kamu membenci sesuatu, padahal ia amat baik bagimu, dan boleh jadi (pula) kamu menyukai sesuatu, padahal ia amat buruk bagimu; Allah mengetahui, sedang kamu tidak mengetahui" (QS. Al-Baqarah:216)</p>
+										<p>Terimakasih untuk selalu memberikan sikap optimis pada setiap langkah yang ku pilih.</p>
+		                           </div>
+								</article>
+		                    </div>
+							<!-- end Couple speech -->
+						</div>
+						<div class="item">
+							<!-- video -->
+							<div class="col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0 wow fadeInUp" data-wow-duration="500ms">
+		                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/6XRjqeGgA18?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+		                    </div>
+							
+							<!-- end video -->
+						</div>
+					</div>
 					
-					<div class="col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
-                       <article class="couple-mate">
-							<div class="member-photo">
-								<img class="img-responsive" src="images/home/two.jpg" alt="Wildan">
-							</div>
-							<div class="member-title">
-								<h3>Wildan Muslim</h3>
-								<span>The Groom</span>
-							</div>
-                           <div class="member-info">
-                               	<p>Tepat 3 tahun yang lalu, memberanikan diri untuk menjanjikan kepadanya, diumur 25 thn (tahun ini) saya akan menikahinya. Walau pada perjalanannya banyak rintangan yang memungkinkan janji ini tak akan saya tepati, dengan meluruskan niat baik, Alhamdulillah dengan bantuan dan seizin Allah semua terasa begitu lancar dan dipermudah. Tak terhitung keajaiban yang silih berganti diberikan oleh Allah, memberikan apa yang terbaik untuk ku. </p>
-                               	<p>"Boleh jadi kamu membenci sesuatu, padahal ia amat baik bagimu, dan boleh jadi (pula) kamu menyukai sesuatu, padahal ia amat buruk bagimu; Allah mengetahui, sedang kamu tidak mengetahui" (QS. Al-Baqarah:216)</p>
-								<p>Terimakasih untuk selalu memberikan sikap optimis pada setiap langkah yang ku pilih.</p>
-                           </div>
-						</article>
-                    </div>
-					<!-- end Couple speech -->
 					
 				</div>  	
 			</div>   	

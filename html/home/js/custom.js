@@ -73,6 +73,7 @@ jQuery(function ($) { "use strict";
 		singleItem : true,
 		transitionStyle : "fadeUp",
 		paginationSpeed : 800,
+		autoHeight : true
 	});
 
 
