@@ -364,6 +364,18 @@
 							</div>
 						</a>
 					</li>
+					<li class="mix wildan">
+						<a href="javascript:void(0)" data-largesrc="images/home/friends/fitria.jpg" data-title="Fitria Kartika" data-description="<p>Alhamdulillah setelah sekian lama insyaAllah Wildan&Siska menuju halal-dan biar Wildan gak usah antar-remput dari lembang-cimahi/batujajar lagi =)))</p>
+						<p>Untuk Wildan&Siska, semoga menjadi keluarga yang sakinah, mawadah, dan warohmah. Doa terbaik bagi kalian beserta keturunannya kelak.</p>">
+							<img src="images/home/friends/fitria.jpg" alt="Meghna">
+							<div class="hover-mask">
+								<h3>Fitria Kartika</h3>
+								<span>
+									<i class="fa fa-plus fa-2x"></i>
+								</span>
+							</div>
+						</a>
+					</li>
 					
 				</ul> <!-- end og grid -->
 			</div>  
