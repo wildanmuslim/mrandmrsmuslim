@@ -8,12 +8,12 @@
         <meta name="description" content="<?php echo HEADER_DESCRIPTION ?>">
         <meta property="title" content="<?php echo HEADER_TITLE ?>" />
 		<meta property="og:title" content="<?php echo HEADER_TITLE ?>" />
-		<meta property="og:image" content="<?php echo base_url('images/sosmedshare.jpg')?>?thn=1" />
+		<meta property="og:image" content="<?php echo base_url('images/sosmedshare.jpeg')?>?thn=1" />
 		<meta property="og:url" content="<?php echo base_url()?>" />
 		<meta property="og:type" content="article" />
 		<meta property="og:description" content="<?php echo HEADER_DESCRIPTION ?>" />
 		<meta property="twitter:title" content="<?php echo HEADER_TITLE ?>" />
-		<meta property="twitter:image:src" content="<?php echo base_url('images/sosmedshare.jpg')?>?thn=1" />
+		<meta property="twitter:image:src" content="<?php echo base_url('images/sosmedshare.jpeg')?>?thn=1" />
 		
         <title><?php echo HEADER_TITLE ?></title>
 		
